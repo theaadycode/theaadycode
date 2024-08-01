@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/theaadycode/theaadycode/blob/main/git%20hub%20banner.png)
 <h1 align="center">Hi 👋, I'm ADITYA SINHA</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/206d3d87-640d-436d-821c-481e7f388fe3">
